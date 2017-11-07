@@ -2,6 +2,8 @@
 .DS_Store
 ## DATA
 *data
+*other
+*blog
 ## JUPYTER NOTEBOOK
 *.ipynb_checkpoints
 ## Core latex/pdflatex auxiliary files:
