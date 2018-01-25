@@ -5,7 +5,7 @@
 # 1 例子
 # 1.1 kaggle泰坦尼克号获救预测
 采用最简单的决策树预测是否获救。
-[结果](https://github.com/leeliang/data-analysis-example-for-beginners/blob/master/kaggle_titanic/tree.png)
+![结果](https://raw.githubusercontent.com/leeliang/data-analysis-example-for-beginners/master/kaggle_titanic/tree.png)
 
 ## 1.2 天天基金网公募基金分析
 
