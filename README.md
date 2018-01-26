@@ -4,13 +4,13 @@
   
 # 1 例子
 # 1.1 kaggle泰坦尼克号获救预测
-采用最简单的决策树预测是否获救。
+利用机器学习预测获救情况，采用的算法为决策树算法。
 ![结果](https://github.com/leeliang/data-analysis-example-for-beginners/blob/master/kaggle_titanic/tree.png)
 
 ## 1.2 天天基金网公募基金分析
 
-* [基金概况](https://github.com/leeliang/data-analysis/tree/master/mutual_funds)
-* [基金表现分析](https://github.com/leeliang/data-analysis/tree/master/mutual_funds)
-* [基金经理和基金公司分析](https://github.com/leeliang/data-analysis/tree/master/mutual_funds)
-* [K-Means 分类基金](https://github.com/leeliang/data-analysis/tree/master/mutual_funds)
-* [随机森林预测基金涨跌](https://github.com/leeliang/data-analysis/tree/master/mutual_funds)
+* [基金概况](https://github.com/leeliang/data-analysis/tree/master/mutual_funds)：大致查看基金情况，涉及数据的读入与查看。
+* [基金表现分析](https://github.com/leeliang/data-analysis/tree/master/mutual_funds)：分析涨跌幅数据，熟悉 Pandas 的使用。
+* [基金经理和基金公司分析](https://github.com/leeliang/data-analysis/tree/master/mutual_funds)：熟悉 Pandas 的使用。
+* [K-Means 分类基金](https://github.com/leeliang/data-analysis/tree/master/mutual_funds)：演示机器学习算法的实例。
+* [随机森林预测基金涨跌](https://github.com/leeliang/data-analysis/tree/master/mutual_funds)：对数据进行特征工程，特征的提取与清洗，对学习结果的评价。
